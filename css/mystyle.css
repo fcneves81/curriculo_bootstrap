@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container-fluid section{
+    max-width: 100vw;
+}
+
+.icon-fab {
+    font-size: 300%;
+    color: #00a884;
+}
+
+.icon-whatsapp{
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+}
